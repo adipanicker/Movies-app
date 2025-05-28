@@ -37,7 +37,7 @@ This app utilizes the [TMDB API](https://www.themoviedb.org/documentation/api) t
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started.
 
 ### 1. Clone the Repo
 ```bash
